@@ -4,6 +4,8 @@
 <!-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdnjs008)](https://solved.ac/thdnjs008/) -->
 
+### 자세히 알아보고 싶으시다면 [Portpolio](https://url.kr/baez7s)를 클릭하세요😎
+
 # 💪Skills
 ### Platforms & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)

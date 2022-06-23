@@ -1,12 +1,8 @@
 # Choi So Won
-
+### [Portpolio](https://url.kr/ov6pjr)😎
 ![SoWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowonlevelup&show_icons=true&theme=calm)
-<!-- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdnjs008)](https://solved.ac/thdnjs008/) -->
 
-### 자세히 알아보고 싶으시다면 [Portpolio](https://url.kr/ov6pjr)를 클릭하세요😎
-
-# 💪Skills
+# Skills
 ### Platforms & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)

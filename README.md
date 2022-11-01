@@ -1,5 +1,5 @@
 # Choi So Won
-## [Portpolio](https://url.kr/xn41va)😎
+## [Portpolio](https://url.kr/5gley3)😎
 ![SoWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowonlevelup&show_icons=true&theme=calm)
 
 -

@@ -1,6 +1,6 @@
 # Choi So Won
 ## [Portpolio](https://url.kr/6u5ctm)😎
-![SoWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowonlevelup&show_icons=true&theme=calm)
+![Sowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowonlevelup&show_icons=true&theme=transparent)
 
 -
 # Skills
